@@ -15,10 +15,6 @@
  */
 package me.vilojona.quarkus.petclinic.owner;
 
-import org.springframework.beans.support.MutableSortDefinition;
-import org.springframework.beans.support.PropertyComparator;
-import org.springframework.core.style.ToStringCreator;
-
 import lombok.Data;
 import me.vilojona.quarkus.petclinic.model.Person;
 
